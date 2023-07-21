@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import {v4 as uuidv4} from 'uuid'
 import './index.css'
-import PasswordItem from '../PasswordItem'
+import PasswordItem from '../passwordItem'
 
 class PasswordManager extends Component {
   state = {
